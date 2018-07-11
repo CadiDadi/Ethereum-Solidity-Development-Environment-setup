@@ -2,8 +2,8 @@
 </br>
 When I was getting started with Ethereum (Solidity) Smart Contract Development, it took me a while to figure out how to get everything I needed set up. I hope this will help someone else:
 </br>
-<h4>Tools</h4>
-</br>1.	NodeJS & NPM - Download & Install - https://nodejs.org/en/ 
+<h4>Tools to Install</h4>
+1.	NodeJS & NPM - Download & Install - https://nodejs.org/en/ 
 </br>2.	NPM globally from Command Line Interface (CLI) (Administrator) > npm install -g npm
 </br>3.	Chocolatey (software package manager) https://chocolatey.org/ 
 </br>o	on Win10, can install from CLI(Administrator) > @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
@@ -27,10 +27,10 @@ When I was getting started with Ethereum (Solidity) Smart Contract Development, 
 </br>11. Geth - CLI(Administrator) > npm install -g geth
 </br>
 <h4>Tutorials to get started</h4>
-</br></br>Hello World - https://www.ethereum.org/greeter 
+Hello World - https://www.ethereum.org/greeter 
 </br>Pet Shop - https://truffleframework.com/tutorials/pet-shop 
 </br>
 <h4>Documentation</h4>
-</br>Ethereum - http://www.ethdocs.org/en/latest/ 
+Ethereum - http://www.ethdocs.org/en/latest/ 
 </br>Solidity - https://solidity.readthedocs.io/en/v0.4.24/ 
 </br>Truffle - https://truffleframework.com 
