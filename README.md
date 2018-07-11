@@ -8,9 +8,9 @@ When I was getting started with Ethereum (Solidity) Smart Contract Development, 
 3.	Chocolatey (software package manager) https://chocolatey.org/ </br>
 &nbsp;&nbsp;&nbsp;&nbsp;--one option fpr Win10, install from CLI(Administrator) > @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"</br>
 4.	a. Integrated Development Environment (IDE) COMPATIBLE WITH SOLIDITY</br>
-&nbsp;&nbsp;&nbsp;&nbsp;Two suggestions:</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Visual Studio Core (VSC) - https://code.visualstudio.com/docs?start=true</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Atom - https://atom.io/ </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Two suggestions:</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Visual Studio Core (VSC) - https://code.visualstudio.com/docs?start=true</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Atom - https://atom.io/ </br>
 &nbsp;&nbsp;&nbsp;     b. Package Extensions for Solidity –  look for Solidity & Ethereum</br>
 5.    Windows Build Tools. CLI(Administrator) > npm install -g -production windows-build-tools</br>
 6.    Truffle - CLI(Administrator) > npm install -g truffle</br>
