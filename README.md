@@ -6,7 +6,7 @@ When I was getting started with Ethereum (Solidity) Smart Contract Development, 
 1.	NodeJS & NPM - Download & Install - https://nodejs.org/en/ </br>
 2.	NPM globally from Command Line Interface (CLI) (Administrator) > npm install -g npm</br>
 3.	Chocolatey (software package manager) https://chocolatey.org/ </br>
-&nbsp;&nbsp;&nbsp;&nbsp;--one option fpr Win10, install from CLI(Administrator) > @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"</br>
+&nbsp;&nbsp;&nbsp;&nbsp;--one option for Windows10, install from CLI(Administrator) > @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"</br>
 4.	a. Integrated Development Environment (IDE) COMPATIBLE WITH SOLIDITY</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Two suggestions:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Visual Studio Core (VSC) - https://code.visualstudio.com/docs?start=true</br>
