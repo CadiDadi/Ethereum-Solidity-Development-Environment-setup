@@ -27,6 +27,10 @@ When I was getting started with Ethereum (Solidity) Smart Contract Development, 
 &nbsp;&nbsp;&nbsp;&nbsp;b. React Drizzle package: npm install --save drizzle-react</br>
 11. Geth - CLI(Administrator) > npm install -g geth
 </br>
+<h4>Browser Tools </h4>
+1.	Remix - http://remix.ethereum.org </br>
+2.	MetaMask – plugin for - Chrome, Firefox, Brave(pre-installed in Brave)
+</br>
 <h4>Tutorials to get started</h4>
 Hello World - https://www.ethereum.org/greeter </br>
 Pet Shop - https://truffleframework.com/tutorials/pet-shop 
