@@ -22,13 +22,13 @@ b. CLI(Administrator) > npm install -g ganache-cli</br>
 9.   ReactJS - CLI(Administrator) > npm install --save react react-dom</br>
 o	TUTORIAL - https://reactjs.org/tutorial/tutorial.html</br>
 10.   Drizzle -  a collection of front-end libraries that make writing dapp front-ends easier and more predictable. The core of Drizzle is based on a Redux store, so you have access to the spectacular development tools around Redux. We take care of synchronizing your contract data, transaction data and more. Things stay fast because you declare what to keep in sync.</br>
-          a. Drizzle: npm install --save drizzle</br>
+&nbsp;&nbsp;&nbsp;a. Drizzle: npm install --save drizzle</br>
           b. React Drizzle package: npm install --save drizzle-react</br>
 11. Geth - CLI(Administrator) > npm install -g geth
 </br>
 <h4>Tutorials to get started</h4>
 Hello World - https://www.ethereum.org/greeter </br>
-</br>Pet Shop - https://truffleframework.com/tutorials/pet-shop 
+Pet Shop - https://truffleframework.com/tutorials/pet-shop 
 </br>
 <h4>Documentation</h4>
 Ethereum - http://www.ethdocs.org/en/latest/ </br>
