@@ -1,6 +1,8 @@
 # Environment Setup for Ethereum (Solidity) Smart Contract Development 
-
-
+</br>
+When I was getting started with Ethereum (Solidity) Smart Contract Development, it took me a while to figure out how to get everything I needed set up. I hope this will help someone else:
+</br>
+<h4>Tools</h4>
 1.	NodeJS & NPM - Download & Install - https://nodejs.org/en/ 
 2.	NPM globally from Command Line Interface (CLI) (Administrator) > npm install -g npm
 3.	Chocolatey (software package manager) https://chocolatey.org/ 
